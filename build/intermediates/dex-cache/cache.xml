@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/hemanthgokavarapu/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.0.0/4c8d1536dba3812cc1592090dc20c47a4ed3c35e/okhttp-2.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4c8d1536dba3812cc1592090dc20c47a4ed3c35e">
+        <dex dex="/Users/hemanthgokavarapu/Downloads/PhotoDrive/app/build/intermediates/pre-dexed/debug/okhttp-2.0.0-3ed3fe0e9559d9689323be9aeabc086a1e301cdc.jar" />
+    </item>
+    <item
+        jar="/Users/hemanthgokavarapu/Downloads/PhotoDrive/app/libs/scribe.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ea4909bb556de828493bb47ba878696c512b70e9">
+        <dex dex="/Users/hemanthgokavarapu/Downloads/PhotoDrive/app/build/intermediates/pre-dexed/debug/scribe-706876533641340470ddca8ac87d8ff8a187efcc.jar" />
+    </item>
+    <item
+        jar="/Users/hemanthgokavarapu/Downloads/PhotoDrive/app/libs/codepath-oauth-0.4.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e2bf2d92cfe90d44287c510d955d0c979631e99e">
+        <dex dex="/Users/hemanthgokavarapu/Downloads/PhotoDrive/app/build/intermediates/pre-dexed/debug/codepath-oauth-0.4.1-11c43ff4794db035813e3d14aee6a99d64833f73.jar" />
+    </item>
+    <item
+        jar="/Users/hemanthgokavarapu/Downloads/PhotoDrive/app/libs/universal-image-loader-1.8.4.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="eee81e43531ce82db1781c5a8b27781ca384eede">
+        <dex dex="/Users/hemanthgokavarapu/Downloads/PhotoDrive/app/build/intermediates/pre-dexed/debug/universal-image-loader-1.8.4-33281c74427597c2bf55d691596f703cf72e1e49.jar" />
+    </item>
+    <item
+        jar="/Users/hemanthgokavarapu/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.0.0/2534c458682c73f5b9871131ab3098d3f987ca3/okio-1.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="02534c458682c73f5b9871131ab3098d3f987ca3">
+        <dex dex="/Users/hemanthgokavarapu/Downloads/PhotoDrive/app/build/intermediates/pre-dexed/debug/okio-1.0.0-8f01e60884a2cec9bebf75530f1bfe0ba4956463.jar" />
+    </item>
+    <item
+        jar="/Users/hemanthgokavarapu/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp-urlconnection/2.0.0/afe8399d352713b66e597e9670c741d1e60ae923/okhttp-urlconnection-2.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="afe8399d352713b66e597e9670c741d1e60ae923">
+        <dex dex="/Users/hemanthgokavarapu/Downloads/PhotoDrive/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-2.0.0-dfb00d97a776b8cf3060294a03fcffece6248257.jar" />
+    </item>
+    <item
+        jar="/Users/hemanthgokavarapu/Downloads/PhotoDrive/app/libs/activeandroid-3.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8cdfaba830e02c56967e946078b60fc476432f36">
+        <dex dex="/Users/hemanthgokavarapu/Downloads/PhotoDrive/app/build/intermediates/pre-dexed/debug/activeandroid-3.0-6dfe40ec69589ba0e3d3cdd33352c1fd4871fdfe.jar" />
+    </item>
+    <item
+        jar="/Users/hemanthgokavarapu/Downloads/PhotoDrive/app/build/intermediates/exploded-aar/com.jpardogo.listbuddies/library/1.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c7eb236377454d425692bc371958603bc9e1ba42">
+        <dex dex="/Users/hemanthgokavarapu/Downloads/PhotoDrive/app/build/intermediates/pre-dexed/debug/classes-9b882fcc77612c2e3b4a92efd3a2c3a66740fb03.jar" />
+    </item>
+    <item
+        jar="/Users/hemanthgokavarapu/Downloads/PhotoDrive/app/libs/javax.inject-1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/hemanthgokavarapu/Downloads/PhotoDrive/app/build/intermediates/pre-dexed/debug/javax.inject-1-0dc2f446ed606f50d7a43c680197e66a1ca0cf38.jar" />
+    </item>
+    <item
+        jar="/Users/hemanthgokavarapu/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.1.1/support-annotations-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="/Users/hemanthgokavarapu/Downloads/PhotoDrive/app/build/intermediates/pre-dexed/debug/support-annotations-22.1.1-f4cbe473a3dd959f073556a3058cf49fced09e51.jar" />
+    </item>
+    <item
+        jar="/Users/hemanthgokavarapu/Downloads/PhotoDrive/app/libs/roboguice-2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="727ccb8f376109d0b5c44abca6f791dccc5c5dbc">
+        <dex dex="/Users/hemanthgokavarapu/Downloads/PhotoDrive/app/build/intermediates/pre-dexed/debug/roboguice-2.0-da81887e3061981baf3c51dfa0e6a1a514bae2e7.jar" />
+    </item>
+    <item
+        jar="/Users/hemanthgokavarapu/Downloads/PhotoDrive/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/libs/internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="/Users/hemanthgokavarapu/Downloads/PhotoDrive/app/build/intermediates/pre-dexed/debug/internal_impl-22.1.1-93bd5e4e12573e7af91dd783692e2387331923f2.jar" />
+    </item>
+    <item
+        jar="/Users/hemanthgokavarapu/Downloads/PhotoDrive/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="/Users/hemanthgokavarapu/Downloads/PhotoDrive/app/build/intermediates/pre-dexed/debug/classes-2393746a5fc7062e66d31e726419b793b16eafd4.jar" />
+    </item>
+    <item
+        jar="/Users/hemanthgokavarapu/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.3.3/1262995965440e28ba5c4d480c9c9ab4ccce84cc/picasso-2.3.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1262995965440e28ba5c4d480c9c9ab4ccce84cc">
+        <dex dex="/Users/hemanthgokavarapu/Downloads/PhotoDrive/app/build/intermediates/pre-dexed/debug/picasso-2.3.3-8cecb7438e228b04882d9f55aefc1a873286d9d2.jar" />
+    </item>
+    <item
+        jar="/Users/hemanthgokavarapu/Downloads/PhotoDrive/app/libs/codepath-utils.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="10901a5ef726eacf1b2443b7f38dc4cc9cd3f7d4">
+        <dex dex="/Users/hemanthgokavarapu/Downloads/PhotoDrive/app/build/intermediates/pre-dexed/debug/codepath-utils-7cd0aa2a5a2ed69351b22946968caba90ae748cf.jar" />
+    </item>
+    <item
+        jar="/Users/hemanthgokavarapu/Downloads/PhotoDrive/app/libs/guice-3.0-no_aop.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="28586dc97c525501329d9a242fc3402041e3572d">
+        <dex dex="/Users/hemanthgokavarapu/Downloads/PhotoDrive/app/build/intermediates/pre-dexed/debug/guice-3.0-no_aop-7562af68b0431491f01adc040eb61080ccb5ef60.jar" />
+    </item>
+    <item
+        jar="/Users/hemanthgokavarapu/Downloads/PhotoDrive/app/libs/android-async-http-1.4.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f70e680861fdf9449819003e7799a4e9aca047f8">
+        <dex dex="/Users/hemanthgokavarapu/Downloads/PhotoDrive/app/build/intermediates/pre-dexed/debug/android-async-http-1.4.3-7a74ed9182271f438b82bff40a3296fb3267fad8.jar" />
+    </item>
+    <item
+        jar="/Users/hemanthgokavarapu/Downloads/PhotoDrive/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="/Users/hemanthgokavarapu/Downloads/PhotoDrive/app/build/intermediates/pre-dexed/debug/classes-77d0502a4643bcde93ceaaab0c60be452ed69e23.jar" />
+    </item>
+    <item
+        jar="/Users/hemanthgokavarapu/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/5.1.2/daf5472b0df6dabaceb6ad755b3812535863965a/butterknife-5.1.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="daf5472b0df6dabaceb6ad755b3812535863965a">
+        <dex dex="/Users/hemanthgokavarapu/Downloads/PhotoDrive/app/build/intermediates/pre-dexed/debug/butterknife-5.1.2-ac54830785a3faa1b9c6857291a9b0c24c2b97a5.jar" />
+    </item>
+
+</items>

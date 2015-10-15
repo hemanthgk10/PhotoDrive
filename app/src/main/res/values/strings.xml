@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Photo Drive</string>
+    <string name="drawer_open">drawer_open</string>
+    <string name="drawer_close">drawer_close</string>
+    <string-array name="image_ids">
+        <item>@drawable/flickr</item>
+        <item>@drawable/tumblr</item>
+        <item>@drawable/px</item>
+        <item>@drawable/image_5</item>
+        <item>@drawable/gram</item>
+        <item>@drawable/image_6</item>
+        <item>@drawable/image_7</item>
+        <item>@drawable/image_8</item>
+        <item>@drawable/image_9</item>
+    </string-array>
+</resources>
